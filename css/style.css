@@ -12900,3 +12900,10 @@ a:hover {
     margin: 100px 0;
   }
 }
+
+.nav_bg {
+  background: #2cc2ab;
+}
+/* .site-mobile-menu .site-nav-wrap li.active > a {
+  color: red !important;
+} */
